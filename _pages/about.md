@@ -26,5 +26,3 @@ Current research
 - Benchmarking universal machine-learning interatomic potentials, including SevenNet, MACE, eSEN, and UMA
 - Accelerating crystal structure prediction for unsolved materials
 - Developing high-fidelity computational workflows for materials discovery
-
-[Download my CV](/files/CV_YunsungLim.pdf){: .btn .btn--primary }

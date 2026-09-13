@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Conference Presentations"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
