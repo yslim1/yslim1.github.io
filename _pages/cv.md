@@ -75,4 +75,4 @@ Publications and presentations
 ======
 
 - 19 peer-reviewed papers and preprints, including 7 first- or co-first-author works. See the [full publication list](/publications/).
-- Five conference contributions. See [conferences and presentations](/talks/).
+- Five conference presentations. See the [conference presentation list](/talks/).
